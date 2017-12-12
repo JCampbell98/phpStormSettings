@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a77f7d16-1f1e-40c1-ae11-7e8a6e437d2b" name="Assignment4" url="http://php.scweb.ca">
+        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/iperic786" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
