@@ -1,16 +1,16 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a77f7d16-1f1e-40c1-ae11-7e8a6e437d2b" name="Assignment4" url="http://php.scweb.ca">
-        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/iperic786" accessType="SFTP">
+      <webServer id="4311e399-ce13-487e-90b4-2e244396a018" name="php.scweb.ca Jordan" url="http://php.scweb.ca/~jcampbell054">
+        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/jcampbell054/public_html/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e6b06075-be6b-4f27-ac28-63d99b6ba2bb" name="php.scweb.ca - JCampbell" url="http://php.scweb.ca">
-        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/jcampbell054/public_html" accessType="SFTP">
+      <webServer id="a77f7d16-1f1e-40c1-ae11-7e8a6e437d2b" name="Assignment4" url="http://php.scweb.ca">
+        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/iperic786" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
