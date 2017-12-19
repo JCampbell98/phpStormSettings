@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4311e399-ce13-487e-90b4-2e244396a018" name="php.scweb.ca Jordan" url="http://php.scweb.ca/~jcampbell054">
-        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/jcampbell054/public_html/" accessType="SFTP">
+      <webServer id="4311e399-ce13-487e-90b4-2e244396a018" name="php.scweb.ca" url="http://php.scweb.ca">
+        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/jcampbell054/public_html" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
